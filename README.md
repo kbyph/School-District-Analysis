@@ -35,13 +35,10 @@ The replacement of freshman math and reading scores led to the plundge of Thomas
 
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
-Initially, Thomas High School was scored just has high as the other schools. Since the adjustment, the math score for freshman now show up as NaN.
+Initially, Thomas High School was scored just has high as the other schools. Since the adjustment, the math score for freshman now show up as NaN. As for reading scores, the results are identical towards math as the freshman score is once again a missing value.
 
 
 ![Math Scores by Grade](https://user-images.githubusercontent.com/102638461/166404415-c022b0e8-9613-47a8-a23e-940a3f346346.png)
-
-  As for reading scores, the results are identical towards math as the freshman score is once again a missing value.
-
 
 ![Reading Scores by Grade](https://user-images.githubusercontent.com/102638461/166404435-294be940-86a6-4694-9c95-da3ad14cc93b.png)
 
