@@ -40,7 +40,7 @@ Initially, Thomas High School was scored just has high as the other schools. Sin
 
 ![Math Scores by Grade](https://user-images.githubusercontent.com/102638461/166404415-c022b0e8-9613-47a8-a23e-940a3f346346.png)
 
-As for reading scores, the results are identical towards math as the freshman score is once again a missing value.
+  As for reading scores, the results are identical towards math as the freshman score is once again a missing value.
 
 
 ![Reading Scores by Grade](https://user-images.githubusercontent.com/102638461/166404435-294be940-86a6-4694-9c95-da3ad14cc93b.png)
