@@ -11,8 +11,8 @@ The school board has determined that there was an act of academic dishonesty tow
 
 
 ## Resources
-Data Source: PyCitySchools.ipynb
-Software: Python 3.6.1, Anaconda3, Jupyter Notebook  
+- Data Source: PyCitySchools.ipynb
+- Software: Python 3.6.1, Anaconda3, Jupyter Notebook  
 
 
 ## Results
@@ -34,7 +34,7 @@ In the initial analysis, the students at Thomas High School had significantly hi
 The replacement of freshman math and reading scores led to the plundge of Thomas High School's ranking. In the original analysis, they ranked at the top 5 with an overall passing percentage of around 90%. Since the adjustments, they now rank at the bottom half of the list with a new overall passing percentage of 65%.
 
 ### How does replacing the ninth-grade scores affect the following:
-1. Math and reading scores by grade
+- Math and reading scores by grade
 Initially, Thomas High School was scored just has high as the other schools. Since the adjustment, the math score for freshman now show up as NaN.
 
 
@@ -45,19 +45,19 @@ Initially, Thomas High School was scored just has high as the other schools. Sin
 
 ![Reading Scores by Grade](https://user-images.githubusercontent.com/102638461/166404435-294be940-86a6-4694-9c95-da3ad14cc93b.png)
 
-2. Scores by school spending
+- Scores by school spending
 Thomas High School is in the $630-$644 category, but the changes to its score were very minimal. When rounded up, each score remains unaffected.
 
 
 ![Spending Summary](https://user-images.githubusercontent.com/102638461/166404657-961dbe63-6ac8-4bd9-8915-62c10773db49.png)
 
-3. Scores by school size
+- Scores by school size
 Thomas High School falls in the 1000-2000 student medium category, but once again its changes to the score were uneffective. 
 
 
 ![Size Summary](https://user-images.githubusercontent.com/102638461/166404671-38f70416-f23f-4b37-85cc-0f2307d5d833.png)
 
-4. Scores by school type
+- Scores by school type
 Thomas High School is a charter school, but the scores were barely affected in the adjusted analysis.
 
 
@@ -65,6 +65,7 @@ Thomas High School is a charter school, but the scores were barely affected in t
 
 ## Summary
 ### Four Changes
+
 1. Thomas High School's overall passing rate decreased drastically from 90% to 65%.
 
 2. Passing math and reading percentages also saw a decrease of about 30%.
