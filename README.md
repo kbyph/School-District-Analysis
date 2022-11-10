@@ -74,3 +74,4 @@
 4. Freshman math and reading scores at Thomas High School now show up as an NaN value.
 
 Therefore, the act of academic dishonestly from the freshman at Thomas High School seems very likely since the other three grade levels experienced very low relative scores.
+
